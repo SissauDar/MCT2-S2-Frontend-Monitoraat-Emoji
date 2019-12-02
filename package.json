@@ -1,0 +1,18 @@
+{
+  "name": "monitoraat01",
+  "version": "0.0.1",
+  "description": "A cheatsheet for the emojis of Github.",
+  "main": null,
+  "scripts": {
+    "serve": "gulp serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dar",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
